@@ -1,4 +1,7 @@
-# ulauncher-todoist-ext
+# ulauncher-todoist with Quick Add
+
+This was forked from https://github.com/cmuench/ulauncher-todoist because that repo's [feature to support specific projects](https://github.com/cmuench/ulauncher-todoist/pull/8) removed the use of the Quick Add functionality.  This feature was totally unnecessary because [Quick Add supports the designation of a project](https://developer.todoist.com/sync/v8/?python=#quick-add-an-item) for a task using `#`.  So this fork removes that unnecessary feature and re-enables Quick Add.
+
 
 ![Maintenance Badge](https://img.shields.io/maintenance/yes/2021.svg)
 
